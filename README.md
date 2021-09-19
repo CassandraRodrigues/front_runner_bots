@@ -1,4 +1,4 @@
-# front-run-pancakeswap-bot
+# Front-run-pancakeswap-bot
 The front run bot for Pancakeswap (BSC)
 
 Pancakeswap frontrun bot that purchases the specified token when liquidity is added.
@@ -6,7 +6,7 @@ Bot is following the “target” address and trades tokens on PancakeSwap.
 Bot can front run by setting higher gas fee and using direct node for transaction
 
 ## Prerequisities
-- Node and NPM https://nodejs.org/en/download/
+- Node and NPM 
 - Wallet with BNB for gas and token swap
 
 ## Running BOT
